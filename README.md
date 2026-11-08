@@ -10,19 +10,14 @@
 
 - 🔭 Currently working on: **My Own Jarvis**
 - 🌱 Learning: **Python, C++, Java**
-- 📫 Reach me: **dexytf3@protonmail.com**
+- 📫 Reach me: **gamingwithsnapdragon124@gmail.com**
 
 ---
 
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DexytF3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DexytF3&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DexytF3&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
@@ -34,10 +29,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexytF3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 | Language | Share |
